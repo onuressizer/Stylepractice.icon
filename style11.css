@@ -1,0 +1,7 @@
+ul.lorem-list{
+
+    list-style-type: '🕌';
+
+    line-height: 2rem;
+    background-color: gray;
+}
